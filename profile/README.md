@@ -53,13 +53,13 @@ Our testing scope strictly focuses on ensuring a seamless, responsive, and relia
 ## 📂 Repository Index
 Explore the subsystems that make up the Nexus platform:
 
-* 📦 **[Backend](link-to-repo)** 
+* ⚙️ **[Hardware & Embedded Code (ESP/Sensors)](link-to-repo)**
+* 🔌 **[Edge Local Agent & PLC Bridge](link-to-repo)**
 * 🧠 **[AI Computer Vision Module](link-to-repo)** 
-* 🔌 **[Edge Local Agent (PLC Bridge)](link-to-repo)** 
+* 📦 **[Backend](https://github.com/Automated-Product-Sorting-System/backend-api-db)** 
 * 💻 **[Website](link-to-repo)** 
 * 📱 **[Mobile Application](link-to-repo)** 
-* ⚙️ **[Hardware & Embedded Code (ESP/Sensors)](link-to-repo)** 
-* 🧪 **[Software Testing & QA](link-to-repo)**
+* 🧪 **[Software Testing & QA](https://github.com/Automated-Product-Sorting-System/SW-Testing)**
 
 ---
 *Built by the Nexus Engineering Team.*
