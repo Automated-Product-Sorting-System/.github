@@ -10,7 +10,7 @@ Nexus is a comprehensive, human-in-the-loop industrial automation platform. It s
 
 Our platform is built on a highly modular, layered architecture ensuring scalability, real-time responsiveness, and secure industrial control. 
 
-
+![System Architecture](Architecture.png)
 
 ### 1. ⚙️ Industrial Edge & Hardware Layer
 At the factory floor, the edge layer captures physical interactions and controls the sorting mechanism:
