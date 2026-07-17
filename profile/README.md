@@ -61,3 +61,4 @@ Explore the subsystems that make up the Nexus platform:
 
 ---
 *Built by the Nexus Engineering Team.*
+🎓 Developed as B.Sc. Graduation Project in Computer and Systems Engineering (Class of 2026).
