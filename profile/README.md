@@ -58,7 +58,7 @@ Explore the subsystems that make up the Nexus platform:
 * 🧠 **[AI Computer Vision Module](link-to-repo)** 
 * 📦 **[Backend](https://github.com/Automated-Product-Sorting-System/backend-api-db)** 
 * 💻 **[Website](link-to-repo)** 
-* 📱 **[Mobile Application](link-to-repo)** 
+* 📱 **[Mobile Application](https://github.com/Automated-Product-Sorting-System/Mobile_App)** 
 * 🧪 **[Software Testing & QA](https://github.com/Automated-Product-Sorting-System/SW-Testing)**
 
 ---
